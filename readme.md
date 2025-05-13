@@ -1,0 +1,1 @@
+Most of these were made just for educational purposes, so I wouldn't recommend using it in any production-like environments (there may well be inefficiencies and rather straightforward to use vulnerabilities) unless explicitly stated otherwise.
